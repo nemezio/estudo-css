@@ -1,0 +1,24 @@
+extensões para vscode;
+
+1- Auto Rename Tag;
+2- Auto Complate Tag;
+3- Babel;
+4- Better Commends;
+5- Bracket Pair colorizer;
+6- color picker;
+7- Css peek;
+8- debugger for chorme;
+9- discord presence;
+10- draw.io integration;
+11- eslint
+12- gitlens
+13- html css support
+14- live server
+15- live share
+16- material icone theme
+17- emmet
+18- php intellsense
+19- prettier
+20- react native tools
+21- remote - wsl
+22- sublime text
